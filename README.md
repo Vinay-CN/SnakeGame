@@ -1,6 +1,6 @@
 # SnakeGame
-The video is about developing a snake game using a JavaScript library.  
-
+Snake game using a JavaSwing library.  
+ 
 The functionalities of the game are controlling the snake using key buttons, making it eat food, increasing the snake's size and scores, and ending the game when the snake collides with obstacles.   
 
 The demo shows the snake game with a moving three-dot snake, a red dot for the head, green dots for the body, and an apple for the food.
